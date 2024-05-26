@@ -1,0 +1,26 @@
+function home(){
+
+    console.log('welcome to home js')
+
+}
+home()
+
+if we want resuse  create another file
+
+common js 
+module.exports = home;
+
+card.js
+const home  = require('./home')
+
+home()
+now run card.js
+
+error
+ Cannot use import statement outside a module
+
+ (npm init for initialize package.json)
+
+
+inbuilt
+const os = require('os')
