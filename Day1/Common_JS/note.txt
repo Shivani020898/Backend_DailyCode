@@ -1,0 +1,14 @@
+Why Objects are Preferred
+Named Imports: When using objects, you can import by name, which makes the code more readable and clear about what is being imported.
+
+Flexibility: Object destructuring allows you to import only the functions you need, without worrying about their order.
+
+Scalability: With objects, you can easily add or remove exports without affecting the import statements in other files. Adding a new function doesn’t require changing the order or indexing.
+
+Conclusion
+While you can use arrays to export and import multiple functions, using objects is more common and generally recommended due to the advantages in readability, flexibility, and maintainability. Destructuring objects provides clearer code and avoids the pitfalls of relying on the order of elements in arrays.
+
+
+
+
+

@@ -1,3 +1,43 @@
+1....what is node....
+
+node is not a language it used javascript internally 
+broweser have h chrome6 engine there is a run time enviromenet 
+
+that is server side enviroemnt (where is javascript code)
+file create write, api create, coonction with data base
+
+code and syntax is similar but not exactly 
+
+open source (code avialbe in intrnet)
+
+node js mostly used API (when you create major projct you should have to create api) so we can connect database web apps and also mobile apps
+
+node js is super fast for api rather than other language and you do not need to learn other languages
+
+with node and javascript you will be become full stack developer
+
+2....what are the client server sides..?
+
+clint req to sever .......google.com
+server respond and send you data the data
+
+again you clicked somwhere and you send req and server give you respone so this architecture will continue
+
+client side language -html css js so we can display our website
+
+server side languages - its provide coonection with dataBase ,store the data like nodejs,pyhthon,java 
+
+developer make api with nodejs so we can coonect server with client
+
+it can make api for web ,android and IOS
+
+3...download Node JS
+
+npm is helping package
+
+Fundamental of Node.JS
+
+
 function home(){
 
     console.log('welcome to home js')
